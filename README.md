@@ -147,3 +147,4 @@ public class CadastroApp {
 Este projeto ilustra o uso de Java Swing para criar uma interface gráfica básica, manipulando eventos e atualizando a interface com feedback para o usuário. É uma aplicação prática que pode ser expandida com funcionalidades adicionais, como persistência de dados em um banco de dados ou a implementação de mais operações sobre os usuários.
 
 ---
+![image](https://github.com/user-attachments/assets/efb1a6d0-f3eb-4a7c-8564-a4ad843f62d3)
